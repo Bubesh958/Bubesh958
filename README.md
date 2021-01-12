@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**[bubesh958.github.io](bubesh958.github.io)** works thou"
+**[bubesh958.github.io](https://bubesh958.github.io)** works thou"
 <!--
 **Bubesh958/Bubesh958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
