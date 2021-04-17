@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,iCAAoC,CACpC,cAEF","file":"main.5a41c62b.chunk.css","sourcesContent":["body {\r\n  font-family: Cambria, Georgia, serif;\r\n  font-size: 100%;\r\n  /* line-height: 1.3; */\r\n}\r\n\r\n.center {\r\n\r\n}\r\n"]}
